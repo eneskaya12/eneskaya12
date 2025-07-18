@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Kaya</h1>    
 
-<p>Welcome to my GitHub profile. I'm 4th grade Computer Engineering student at Pamukkale University and Software Developer at Netinternet. </p>
+<p>Welcome to my GitHub profile. I'm a Computer Engineering graduate and Software Developer at Netinternet. </p>
  
 <p>🌱I'm currently working with Golang and Linux systems to deepen my expertise.</p>
 <p>⚡Fun fact: I use <a href="https://www.commithub.co/" target="_blank">Commithub</a>.</p>
